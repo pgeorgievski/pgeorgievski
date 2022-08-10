@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>- 
-
 - 👋 Hi, I’m Petar Georgievski >> @pgeorgievski.
 - 👀 I’m interested in  >> Linux, Bash Scripting (automate tasks).
 - 🌱 I’m currently learning >> Bash Scripting (automate tasks).
