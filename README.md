@@ -1,7 +1,8 @@
-<div align="center">
-  <Hi there 👋 I'm Petar>
-</div>
+
+                                        <Hi there 👋 I'm Petar>
+
 -------------------------------------------------------------------------------------------------------
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
